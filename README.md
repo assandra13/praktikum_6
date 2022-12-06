@@ -21,6 +21,9 @@ hapus(nama)
 ubah(nama)
 selese
 
+# FLOWCHART PROGRAM
+![IMG.5](poto/flowchart.jpg)
+
 # TAMPILAN PROGRAM
 ![IMG.1](poto/1.png)
 ![img.2](poto/2.png)
