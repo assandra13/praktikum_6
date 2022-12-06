@@ -7,9 +7,6 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 - Fungsi hapus(nama) untuk menghapus data berdasarkan nama
 - Fungsi ubah(nama) untuk mengubah data berdasarkan nama
 
-# FLOWCHART PROGRAM
-![IMG.5](poto/flowchart.png)
-
 # PENJELASAN PROGRAM
 1. Mendeklarasi dictionary dengan dataMahasiswa untuk menampung semua data.
 2. Menambahkan fungsi def tambah() di isi dengan inputan nama, nim, tugas, uts, uas dan total nilai akhir untuk dan di masukan ke data Mahasiswa.
